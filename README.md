@@ -2,17 +2,25 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rajesh Kumar Pradhan**, a **Computer Science & Engineering undergraduate** focused on **Full-Stack Web Development**.
+Hi, I'm **Rajesh Kumar Pradhan (Raj)** — a **Computer Science & Engineering undergraduate** and aspiring **Full-Stack Developer**.
 
-I build modern and responsive web applications using the **MERN Stack — MongoDB, Express.js, React.js and Node.js**.
+I build modern, responsive and scalable web applications with the **MERN Stack — MongoDB, Express.js, React.js and Node.js**.
 
-I enjoy working on complete applications — from building user interfaces and REST APIs to authentication, databases, cloud services and frontend-backend integration.
+My interests include:
 
-Currently, I'm strengthening my skills in **JavaScript, React.js, Node.js, Backend Development and Data Structures & Algorithms** while building real-world projects.
+- ⚛️ Frontend Development with React
+- ⚙️ Backend Development with Node.js & Express
+- 🗄️ MongoDB & Database Design
+- 🔐 Authentication, REST APIs & API Integration
+- 🧠 JavaScript & Data Structures and Algorithms
 
-🎯 I'm looking for opportunities in **Full-Stack Development / Software Development** where I can contribute, learn and grow as a developer.
+I enjoy taking an idea from **frontend UI → backend API → database → deployment** and turning it into a complete working application.
 
----
+Currently, I'm improving my **JavaScript, React.js, Node.js, Backend Development and DSA** skills while building real-world projects.
+
+🎯 **Goal:** Start my career in **Full-Stack Development / Software Development**, contribute to real products, and keep growing as a developer.
+
+> **Code • Learn • Build • Improve 🚀**
 
 ## 🌐 Connect With Me
 
